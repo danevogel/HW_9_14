@@ -31,8 +31,11 @@ h1 {
     align: right;
 }
 .box2{
-    height:300px;
-    width: 400px;
+    height:200px;
+    width: 200px;
+    margin: 20px;
+    background-color: white;
+    align: left;
 }
 .box3{
     left: 230px; height:80px;
@@ -54,7 +57,7 @@ nav{
 }
 
 
-div#container {
+.container {
     height: 800px;
     background-color: gray;
 
